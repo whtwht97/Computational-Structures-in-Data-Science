@@ -1,0 +1,4 @@
+'compose-correct', (0, 70)
+'mul_by_num-correct', (512, 70)
+'ab_plus_c-correct', (1024, 70)
+'is_palindrome-correct', (1536, 70)

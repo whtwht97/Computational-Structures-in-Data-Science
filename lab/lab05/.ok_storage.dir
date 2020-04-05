@@ -1,0 +1,5 @@
+'gcd-correct', (0, 70)
+'ordered_digits-correct', (512, 70)
+'flatten-correct', (1024, 70)
+'bad_list_flattener-correct', (1536, 70)
+'HOF-correct', (2048, 70)

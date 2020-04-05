@@ -1,0 +1,4 @@
+'where_above-correct', (0, 70)
+'minmax-correct', (512, 70)
+'closest_power_2-correct', (1024, 70)
+'common_member-correct', (1536, 70)

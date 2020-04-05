@@ -1,0 +1,8 @@
+'merge_dict-correct', (0, 70)
+'flip_dict-correct', (512, 70)
+'dice-correct', (1024, 70)
+'roll_dice-correct', (1536, 70)
+'rolls_until_six-correct', (2048, 70)
+'cup-correct', (2560, 70)
+'add_to_cup-correct', (3072, 70)
+'roll_cup-correct', (3584, 70)

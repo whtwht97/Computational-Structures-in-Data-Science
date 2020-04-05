@@ -1,0 +1,7 @@
+'harmonic_mean-correct', (0, 70)
+'two_of_three-correct', (512, 70)
+'nonzero-correct', (1024, 70)
+'has_n-correct', (1536, 70)
+'fib-correct', (2048, 70)
+'add_matrices-correct', (2560, 70)
+'coords-correct', (3072, 70)
